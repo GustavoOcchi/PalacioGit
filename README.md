@@ -9,8 +9,7 @@
 
 ## Estudando Atualmente 
 - Git e Github
-- Javascript
-- Node.js
+- Javascript em Node
 
 ## Contatos 
 - Email: gustavoocchilima7@gmail.com
