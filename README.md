@@ -13,5 +13,4 @@
 - Node.js
 
 ## Contatos 
-- Twitter: @Gustavo_Occhii
 - Email: gustavoocchilima7@gmail.com
